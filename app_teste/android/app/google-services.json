@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285944802208",
+    "firebase_url": "https://udsteste-flutter.firebaseio.com",
+    "project_id": "udsteste-flutter",
+    "storage_bucket": "udsteste-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285944802208:android:396c98d4bd8251471512c5",
+        "android_client_info": {
+          "package_name": "br.com.uds.app_teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285944802208-sutp77mndlnr0tuetb7oa8fbt5p39otf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq5R8C_BPrN9lwxFlWUanW9sPjZnZWOnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285944802208-sutp77mndlnr0tuetb7oa8fbt5p39otf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
