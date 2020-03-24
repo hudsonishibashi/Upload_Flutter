@@ -140,7 +140,7 @@ class _ListPautaState extends State<ListPauta> {
         builder: (context){
      return AlertDialog(
          title: Text("Excluir?"),
-            content: Text("Tem certeza que deseja excluir este item?"),
+            content: Text("Tem certeza que deseja excluir?"),
              actions: <Widget>[
                FlatButton(
                child: Text("Cancelar"),
