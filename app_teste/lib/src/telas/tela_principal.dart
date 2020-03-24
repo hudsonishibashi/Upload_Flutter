@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
       children: <Widget>[
         Scaffold(
       appBar: AppBar(
-        title: Text("Bem Vindo ao app",
+        title: Text("Bem Vindo ao aplicativo",
         style: TextStyle(color: Colors.white),
         ),
         centerTitle: true,
